@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/query/Observer.ts","./src/query/Query.ts","./src/query/QueryClient.ts","./src/query/QueryClientContext.ts","./src/query/useQuery.ts"],"version":"5.6.2"}
